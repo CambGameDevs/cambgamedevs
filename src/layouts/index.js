@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 
 // CSS
-// import './index.css';
+import './index.css';
 
 // Components
 import Header from '../components/Header';
